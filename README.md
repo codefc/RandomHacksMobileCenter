@@ -5,4 +5,4 @@ Sempre que desenvolvemos projetos de mobilidade para os nossos clientes, eles de
 
 Conhecer um pouco mais sobre o Mobile Center, suas principais features e aprender como configurar nossos projetos para serem compilados, enviar informações de crashes (erros inesperados), informações analíticas e entrega para equipe é um passo determinando para ganhar mais a confiança dos seus clientes.
 
-
+![](https://secure.meetupstatic.com/photos/theme_head/7/3/8/3/full_7469571.jpeg)
